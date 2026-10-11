@@ -1,0 +1,4 @@
+# Pinned on purpose: mp.solutions.hands was removed in MediaPipe 1.1.0
+mediapipe==0.10.14
+opencv-python
+numpy
