@@ -55,3 +55,4 @@ the computer's cheating behaviour — everything that does not need a camera.
 - `chifoumi_arbitre.py` — the game
 - `test_chifoumi.py` — logic tests (no webcam needed)
 - `requirements.txt` — pinned dependencies
+- `chifoumi_arbitre_TP.py` — the original step-by-step tutorial (exercises with `TODO`s + corrections), exported from a Jupyter notebook. It's kept for learning purposes: it contains notebook magics (`%pip`) and the old blocking popup, so run `chifoumi_arbitre.py` to actually play.
